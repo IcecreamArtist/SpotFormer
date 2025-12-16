@@ -1,6 +1,4 @@
-# SpotFormer: subcellular pre-training unifies multi-scale spatial transcriptomic analysis
-
-This is the *official* Pytorch implementation of "SpotFormer: subcellular pre-training unifies multi-scale spatial transcriptomic analysis". 
+# Official implementation
 
 The code has been uploaded along with the manuscript for peer review and the complete code will be released after acceptance.
 
